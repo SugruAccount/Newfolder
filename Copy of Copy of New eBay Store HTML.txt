@@ -1,0 +1,773 @@
+﻿<html><head><script type="text/javascript"> 
+                window.onerror = function(message, url, line) {
+                        return true;
+                };
+        </script>
+        <script type="text/javascript"> 
+                var ebayItemID='115273421973';
+                var ebayItemRevisionTime='1648264877997';
+                var ebayAskSellerURL='';
+                var _odtTitle = '';
+                var _odtSubTitle = '';
+                var _isTranslError = false;
+                var _sellerId = '';
+                var _dmn = 'ebay.com';
+        </script>
+        <script type="text/javascript">
+        try{
+                var jsonObj = {};
+                var hashParam = document.location.hash;
+                if(hashParam && hashParam.length > 0){
+                        hashParam = decodeURI(hashParam.replace('#', ''));
+                }
+                if(hashParam && typeof(hashParam) === 'string'){
+                        jsonObj = JSON.parse(hashParam);
+                }
+                if(jsonObj && jsonObj.jsUrl){
+                        var jsUrl = jsonObj.jsUrl;
+                        var script = document.createElement('script');
+                        if(jsUrl.indexOf('//') != -1){
+                                script.src = jsUrl;        
+                        }else{
+                                script.src = '//ir.ebaystatic.com/rs/v/'+jsUrl+'.js';
+                        }
+                        script.defer = true;
+                        document.head.appendChild(script); 
+                }
+                if(jsonObj && jsonObj.title){
+                        var title = jsonObj.title;
+                        document.title = title;
+                }
+        }catch(e){
+                
+        }
+        </script>
+        <title>eBay</title>
+        </head><body><table align="center" style="border-spacing: 0px; width: 100%;">
+        <tbody><tr>
+                <td>
+                        <div id="ds_div">
+                                                         <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/2021/css/new-listing.css?nocache=15112021-16:11">
+<link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/2021/css/new-menu.css?nocache=16092021-14:50">
+<link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/2021/css/new-header.css?nocache=16092021-14:50">
+<!-- <link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/css/menu.css"> -->
+<link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/2021/css/CurrysSans-Regular.css">
+<link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/2021/css/CurrysSans-Headline.css">
+<link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/2021/css/new-responsive.css?nocache=16092021-14:50">
+<!-- <link rel="stylesheet" type="text/css" href="https://currys.pentagonhosting.co.uk/design/css/gallery.css"> -->
+
+
+<div style="display:none">
+<div vocab="https://schema.org/" typeof="Product"><span property="description">
+&lt;p&gt;&lt;strong&gt;&lt;span&gt;br /&gt; &lt;br /&gt; &lt;/span&gt;&lt;/strong&gt;&lt;span&gt;- &lt;strong&gt;Mess-free repairs&lt;/strong&gt; If you love creative fixing and making little DIY improvements around the home, you’re going to love this award-winning mouldable glue. It’s super easy to control, and unlike liquid glues, it won’t ooze and drip all over the place. Simply mould it by hand, stick it where you need it, and it sets strong by turning into a durable, flexible silicone rubber.&lt;br /&gt; - &lt;strong&gt;Fix, protect & organise&lt;/strong&gt; Next time your charger cables start to fray, use Sugru to make them last longer or prevent new cords from splitting in the first place. Sugru sticks permanently to lots of different materials, including things that need to flex, and it’s electrically insulating*. You can even use it to colour-code and organise your spaghetti cable junctions.&lt;br /&gt; - &lt;strong&gt;Get practical & creative&lt;/strong&gt;, Turn your everyday fixes into decorative features. With Sugru, simple problems become creative adventures. Choose from 10 seriously playful Sugru colours to make like-new invisible repairs or create eye-catching embellishments. Fix and decorate all kinds of things like ceramics, pottery and earthenware. Sugru also happens to be dishwasher-proof.&lt;br /&gt; - &lt;strong&gt;Seal nuisance leaks&lt;/strong&gt; Fixing common leaks around the home, indoors and out, is so easy with Sugru. It bonds to lots of different surfaces and is waterproof and weatherproof. Now you can tackle cracked pipes, split garden hoses, broken watering cans, even leaky footwear. There are no limits to what you can do with this versatile material.&lt;br /&gt; ___________________________________________________________________________&lt;br /&gt;
+</span></div></div>
+
+
+<div class="pagewidth">
+        <div class="pageminwidth">
+
+
+                <!-- HEADER START -->
+
+
+                <input type="checkbox" id="menuclick">
+
+
+                <div class="currys-max-width c-header">
+                        <div class="currys-wrapper">
+                                <div class="c-logo">
+                                        <a target="_blank" href="https://www.ebay.com/str/sugrudirect">
+                                </div>
+                                <div class="c-header-mobile-menu">
+                                        <div class="c-mobile-cats">
+                                                <div class="wide-bar"><label for="menuclick">Menu</label></div>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="currys-max-width c-menu-width">
+                        <div class="currys-wrapper c-desktop-menu">
+                                <input name="cs0_menu1" id="cs0_menu_slide_1" type="radio" class="cs0_menu slide" checked="">
+                                <input name="cs0_menu1" id="cs0_menu_slide_2" type="radio" class="cs0_menu slide">
+                                <input name="cs0_menu1" id="cs0_menu_slide_3" type="radio" class="cs0_menu slide">
+                                <div class="c-categories c-menu">
+                                        <!-- <ul class="lev1 c-menu-arrows c-menu-arrows-left">
+                                                <li class="menu-li-2-left"><label for="cs0_menu_slide_2" class="menu-arrow left show_menu_2_left"></label></li>
+                                                <li class="menu-li-1-left"><label for="cs0_menu_slide_1" class="menu-arrow left show_menu_1_left"></label></li>
+                                        </ul> -->
+                                        <ul class="lev1 c-menu-list c-flex c-menu-slide menu-slide-1">
+                                                <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_nkw=sugru&_oac=1&store_cat=42752462011</a>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127482013&amp;store_name=currys&amp;LH_PrefLoc=2">Small Appliances</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127485013&amp;store_name=currys&amp;LH_PrefLoc=2">Floorcare</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127491013&amp;store_name=currys&amp;LH_PrefLoc=2">Upright vacuum cleaners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127492013&amp;store_name=currys&amp;LH_PrefLoc=2">Cylinder vacuum cleaners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005706013&amp;store_name=currys&amp;LH_PrefLoc=2">Cordless vacuum cleaners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127497013&amp;store_name=currys&amp;LH_PrefLoc=2">Robot vacuum cleaners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127495013&amp;store_name=currys&amp;LH_PrefLoc=2">Steam cleaners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005707013&amp;store_name=currys&amp;LH_PrefLoc=2">Carpet washers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005708013&amp;store_name=currys&amp;LH_PrefLoc=2">Pressure washers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005709013&amp;store_name=currys&amp;LH_PrefLoc=2">Window vacuum cleaners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127493013&amp;store_name=currys&amp;LH_PrefLoc=2">Handheld vacuum cleaners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127496013&amp;store_name=currys&amp;LH_PrefLoc=2">Vacuum accessories</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127486013&amp;store_name=currys&amp;LH_PrefLoc=2">Ironing</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127498013&amp;store_name=currys&amp;LH_PrefLoc=2">Irons</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127499013&amp;store_name=currys&amp;LH_PrefLoc=2">Steam generator irons</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127487013&amp;store_name=currys&amp;LH_PrefLoc=2">Health &amp; beauty</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005746013&amp;store_name=currys&amp;LH_PrefLoc=2">Electric toothbrushes</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005747013&amp;store_name=currys&amp;LH_PrefLoc=2">Men's trimmers &amp; clippers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005748013&amp;store_name=currys&amp;LH_PrefLoc=2">Men's shavers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127501013&amp;store_name=currys&amp;LH_PrefLoc=2">Hair dryers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005749013&amp;store_name=currys&amp;LH_PrefLoc=2">Hair stylers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005750013&amp;store_name=currys&amp;LH_PrefLoc=2">Female hair removal</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127502013&amp;store_name=currys&amp;LH_PrefLoc=2">Massage and well being</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127488013&amp;store_name=currys&amp;LH_PrefLoc=2">Small kitchen appliances</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127764013&amp;store_name=currys&amp;LH_PrefLoc=2">Kettles</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127766013&amp;store_name=currys&amp;LH_PrefLoc=2">Toasters</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127767013&amp;store_name=currys&amp;LH_PrefLoc=2">Food preparation</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127768013&amp;store_name=currys&amp;LH_PrefLoc=2">Small cooking appliances</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127770013&amp;store_name=currys&amp;LH_PrefLoc=2">Kitchen accessories</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005756013&amp;store_name=currys&amp;LH_PrefLoc=2">Juicers &amp; blenders</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005757013&amp;store_name=currys&amp;LH_PrefLoc=2">Food mixers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005758013&amp;store_name=currys&amp;LH_PrefLoc=2">Food processors</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58061917013&amp;store_name=currys&amp;LH_PrefLoc=2">Small cooking appliances</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58061927013&amp;store_name=currys&amp;LH_PrefLoc=2">Grills</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58061929013&amp;store_name=currys&amp;LH_PrefLoc=2">Fryers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58061930013&amp;store_name=currys&amp;LH_PrefLoc=2">Multicookers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58061931013&amp;store_name=currys&amp;LH_PrefLoc=2">Slow cookers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58061932013&amp;store_name=currys&amp;LH_PrefLoc=2">Sandwich toasters</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127490013&amp;store_name=currys&amp;LH_PrefLoc=2">Microwaves</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12128036013&amp;store_name=currys&amp;LH_PrefLoc=2">Combination microwaves</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12128037013&amp;store_name=currys&amp;LH_PrefLoc=2">Microwaves with grill</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12128038013&amp;store_name=currys&amp;LH_PrefLoc=2">Standard microwaves</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127489013&amp;store_name=currys&amp;LH_PrefLoc=2">Fans, heating &amp; air treatment</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12128009013&amp;store_name=currys&amp;LH_PrefLoc=2">Heating</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12128010013&amp;store_name=currys&amp;LH_PrefLoc=2">Cooling</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005773013&amp;store_name=currys&amp;LH_PrefLoc=2">Fans</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005774013&amp;store_name=currys&amp;LH_PrefLoc=2">Electric blankets</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005775013&amp;store_name=currys&amp;LH_PrefLoc=2">Air conditioners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005776013&amp;store_name=currys&amp;LH_PrefLoc=2">Air purifiers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005777013&amp;store_name=currys&amp;LH_PrefLoc=2">Dehumidifiers</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005787013&amp;store_name=currys&amp;LH_PrefLoc=2">Coffee</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005788013&amp;store_name=currys&amp;LH_PrefLoc=2">Coffee machines</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005789013&amp;store_name=currys&amp;LH_PrefLoc=2">Coffee accessories</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58062068013&amp;store_name=currys&amp;LH_PrefLoc=2">Cookware &amp; bakeware</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58062133013&amp;store_name=currys&amp;LH_PrefLoc=2">Cookware</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58062134013&amp;store_name=currys&amp;LH_PrefLoc=2">Bakeware</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58062135013&amp;store_name=currys&amp;LH_PrefLoc=2">Utensils &amp; gadgets</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58062136013&amp;store_name=currys&amp;LH_PrefLoc=2">Kitchen accessories</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58062137013&amp;store_name=currys&amp;LH_PrefLoc=2">Food &amp; drink storage</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58139480013&amp;store_name=currys&amp;LH_PrefLoc=2">Sewing machines</a></li>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818232013&amp;store_name=currys&amp;LH_PrefLoc=2">TV &amp; entertainment</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818497013&amp;store_name=currys&amp;LH_PrefLoc=2">Televisions</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=11899594013&amp;store_name=currys&amp;LH_PrefLoc=2">up to 32 inch</a></li>
+                                                                                <!-- <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=11899593013&store_name=currys&LH_PrefLoc=2">32 inch to 39 inch</a></li> -->
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=11899592013&amp;store_name=currys&amp;LH_PrefLoc=2">40 inch to 45 inch</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=11899591013&amp;store_name=currys&amp;LH_PrefLoc=2">46 inch to 55 inch</a></li>
+                                                                                <!-- <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=11899590013&store_name=currys&LH_PrefLoc=2">56 inch and over</a></li> -->
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818593013&amp;store_name=currys&amp;LH_PrefLoc=2">TV accessories</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=11896874013&amp;store_name=currys&amp;LH_PrefLoc=2">TV wall brackets</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768334013&amp;store_name=currys&amp;LH_PrefLoc=2">TV stands</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768326013&amp;store_name=currys&amp;LH_PrefLoc=2">Remote controls</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768327013&amp;store_name=currys&amp;LH_PrefLoc=2">TV aerials</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768328013&amp;store_name=currys&amp;LH_PrefLoc=2">AV senders</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768329013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart &amp; 3D TV accessories</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768330013&amp;store_name=currys&amp;LH_PrefLoc=2">Cleaning products</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768331013&amp;store_name=currys&amp;LH_PrefLoc=2">Cables &amp; accessories</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768219013&amp;store_name=currys&amp;LH_PrefLoc=2">Digital &amp; smart TV</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005839013&amp;store_name=currys&amp;LH_PrefLoc=2">Set top boxes</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768227013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart TV</a></li>
+                                                                                <!-- <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=12768225013&store_name=currys&LH_PrefLoc=2">Freeview</a></li> -->
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818591013&amp;store_name=currys&amp;LH_PrefLoc=2">DVD, Blu-Ray &amp; home cinema</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12123011013&amp;store_name=currys&amp;LH_PrefLoc=2">Home cinema systems</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12123012013&amp;store_name=currys&amp;LH_PrefLoc=2">Sound bars</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12123013013&amp;store_name=currys&amp;LH_PrefLoc=2">Soundstages</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12123015013&amp;store_name=currys&amp;LH_PrefLoc=2">Blu-ray &amp; DVD players</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12123016013&amp;store_name=currys&amp;LH_PrefLoc=2">Portable DVD players</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818498013&amp;store_name=currys&amp;LH_PrefLoc=2">Gaming &amp; consoles</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818499013&amp;store_name=currys&amp;LH_PrefLoc=2">Consoles</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818501013&amp;store_name=currys&amp;LH_PrefLoc=2">Accessories</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768284013&amp;store_name=currys&amp;LH_PrefLoc=2">Console games</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768285013&amp;store_name=currys&amp;LH_PrefLoc=2">PC games</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005834013&amp;store_name=currys&amp;LH_PrefLoc=2">Virtual reality</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=2550385013&amp;store_name=currys&amp;LH_PrefLoc=2">Cameras</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051371013&amp;store_name=currys&amp;LH_PrefLoc=2">Cameras</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051384013&amp;store_name=currys&amp;LH_PrefLoc=2">Compact cameras</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051383013&amp;store_name=currys&amp;LH_PrefLoc=2">Bridge cameras</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005854013&amp;store_name=currys&amp;LH_PrefLoc=2">Instant cameras</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051382013&amp;store_name=currys&amp;LH_PrefLoc=2">DSLR cameras</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=2550450013&amp;store_name=currys&amp;LH_PrefLoc=2">Camcorders</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051387013&amp;store_name=currys&amp;LH_PrefLoc=2">Traditional camcorder</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051388013&amp;store_name=currys&amp;LH_PrefLoc=2">Dash cams</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051389013&amp;store_name=currys&amp;LH_PrefLoc=2">Action camcorders</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051390013&amp;store_name=currys&amp;LH_PrefLoc=2">Camcorder media</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=9630918013&amp;store_name=currys&amp;LH_PrefLoc=2">Telescopes &amp; binoculars</a></li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=2550449013&amp;store_name=currys&amp;LH_PrefLoc=2">Photography accessories</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005871013&amp;store_name=currys&amp;LH_PrefLoc=2">Memory cards</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051925013&amp;store_name=currys&amp;LH_PrefLoc=2">Flashguns &amp; lighting</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051926013&amp;store_name=currys&amp;LH_PrefLoc=2">Tripods &amp; supports</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051924013&amp;store_name=currys&amp;LH_PrefLoc=2">Lenses</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051927013&amp;store_name=currys&amp;LH_PrefLoc=2">Batteries &amp; chargers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12051928013&amp;store_name=currys&amp;LH_PrefLoc=2">Other accessories</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127448013&amp;store_name=currys&amp;LH_PrefLoc=2">Audio</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127452013&amp;store_name=currys&amp;LH_PrefLoc=2">Hi-Fi &amp; speakers</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127461013&amp;store_name=currys&amp;LH_PrefLoc=2">Hi-Fi systems</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005884013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart sound multi-room</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127462013&amp;store_name=currys&amp;LH_PrefLoc=2">Portable speakers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127460013&amp;store_name=currys&amp;LH_PrefLoc=2">Speaker docks</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005883013&amp;store_name=currys&amp;LH_PrefLoc=2">Turntables</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127464013&amp;store_name=currys&amp;LH_PrefLoc=2">Hi-Fi &amp; speaker accessories</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127463013&amp;store_name=currys&amp;LH_PrefLoc=2">Wireless Hi-Fi systems</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127453013&amp;store_name=currys&amp;LH_PrefLoc=2">Headphones</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127465013&amp;store_name=currys&amp;LH_PrefLoc=2">In-ear headphones</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127466013&amp;store_name=currys&amp;LH_PrefLoc=2">On-ear-headphones</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127467013&amp;store_name=currys&amp;LH_PrefLoc=2">Wireless headphones</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127468013&amp;store_name=currys&amp;LH_PrefLoc=2">Sports headphones</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127454013&amp;store_name=currys&amp;LH_PrefLoc=2">Radios</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127469013&amp;store_name=currys&amp;LH_PrefLoc=2">Clock radios</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127470013&amp;store_name=currys&amp;LH_PrefLoc=2">Radios</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127455013&amp;store_name=currys&amp;LH_PrefLoc=2">Portable audio</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127473013&amp;store_name=currys&amp;LH_PrefLoc=2">MP3 &amp; multimedia players</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127474013&amp;store_name=currys&amp;LH_PrefLoc=2">Personal CD players</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127475013&amp;store_name=currys&amp;LH_PrefLoc=2">Portable speakers</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <!-- <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=12127456013&store_name=currys&LH_PrefLoc=2">iPods</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=12127477013&store_name=currys&LH_PrefLoc=2">iPod touch</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=12127478013&store_name=currys&LH_PrefLoc=2">iPod nano</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=12127479013&store_name=currys&LH_PrefLoc=2">iPod shuffle</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&store_cat=12127480013&store_name=currys&LH_PrefLoc=2">Audio accessories</a></li>
+                                                                        </ul>
+                                                                </li> -->
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127480013&amp;store_name=currys&amp;LH_PrefLoc=2">Audio accessories</a></li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12127457013&amp;store_name=currys&amp;LH_PrefLoc=2">Dictaphones</a></li>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12664469013&amp;store_name=currys&amp;LH_PrefLoc=2">Computing</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670682013&amp;store_name=currys&amp;LH_PrefLoc=2">Laptops</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670752013&amp;store_name=currys&amp;LH_PrefLoc=2">Windows laptops</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58037414013&amp;store_name=currys&amp;LH_PrefLoc=2">2 in 1 laptops</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670753013&amp;store_name=currys&amp;LH_PrefLoc=2">Macbook</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58037415013&amp;store_name=currys&amp;LH_PrefLoc=2">Gaming laptops</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670754013&amp;store_name=currys&amp;LH_PrefLoc=2">Chromebooks</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670755013&amp;store_name=currys&amp;LH_PrefLoc=2">Microsoft Surface</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670683013&amp;store_name=currys&amp;LH_PrefLoc=2">iPad, tablets &amp; eReaders</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670758013&amp;store_name=currys&amp;LH_PrefLoc=2">iPad</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670759013&amp;store_name=currys&amp;LH_PrefLoc=2">Android tablets</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670760013&amp;store_name=currys&amp;LH_PrefLoc=2">eReaders</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670685013&amp;store_name=currys&amp;LH_PrefLoc=2">PC monitors</a></li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670686013&amp;store_name=currys&amp;LH_PrefLoc=2">Projectors &amp; accessories</a></li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670684013&amp;store_name=currys&amp;LH_PrefLoc=2">Desktop PCs</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670764013&amp;store_name=currys&amp;LH_PrefLoc=2">All-in-one PCs</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670763013&amp;store_name=currys&amp;LH_PrefLoc=2">Tower desktops</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670765013&amp;store_name=currys&amp;LH_PrefLoc=2">Gaming PCs</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005888013&amp;store_name=currys&amp;LH_PrefLoc=2">Apple desktops</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670687013&amp;store_name=currys&amp;LH_PrefLoc=2">Printers &amp; scanners</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670767013&amp;store_name=currys&amp;LH_PrefLoc=2">Inkjet printers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670768013&amp;store_name=currys&amp;LH_PrefLoc=2">Laser printers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670769013&amp;store_name=currys&amp;LH_PrefLoc=2">Scanners</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005890013&amp;store_name=currys&amp;LH_PrefLoc=2">Ink &amp; cartridges</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=3818792013&amp;store_name=currys&amp;LH_PrefLoc=2">PC accessories</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670771013&amp;store_name=currys&amp;LH_PrefLoc=2">Computer accessories</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698458013&amp;store_name=currys&amp;LH_PrefLoc=2">Mice</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698459013&amp;store_name=currys&amp;LH_PrefLoc=2">Keyboards</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005891013&amp;store_name=currys&amp;LH_PrefLoc=2">Mice &amp; keyboard packages</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698460013&amp;store_name=currys&amp;LH_PrefLoc=2">Webcams</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698461013&amp;store_name=currys&amp;LH_PrefLoc=2">Headsets &amp; microphones</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698462013&amp;store_name=currys&amp;LH_PrefLoc=2">PC speakers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698463013&amp;store_name=currys&amp;LH_PrefLoc=2">Graphics tablets</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698464013&amp;store_name=currys&amp;LH_PrefLoc=2">Power &amp; cables</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698465013&amp;store_name=currys&amp;LH_PrefLoc=2">Tablet accessories</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670774013&amp;store_name=currys&amp;LH_PrefLoc=2">Networking</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698444013&amp;store_name=currys&amp;LH_PrefLoc=2">Routers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698445013&amp;store_name=currys&amp;LH_PrefLoc=2">Network switches</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698446013&amp;store_name=currys&amp;LH_PrefLoc=2">Wireless adapters</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698447013&amp;store_name=currys&amp;LH_PrefLoc=2">WiFi range extenders</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698448013&amp;store_name=currys&amp;LH_PrefLoc=2">Powerline</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005894013&amp;store_name=currys&amp;LH_PrefLoc=2">Whole home Wi-Fi systems</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670773013&amp;store_name=currys&amp;LH_PrefLoc=2">Data storage</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698449013&amp;store_name=currys&amp;LH_PrefLoc=2">External hard drives</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698450013&amp;store_name=currys&amp;LH_PrefLoc=2">Internal data storage</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698451013&amp;store_name=currys&amp;LH_PrefLoc=2">USB flash drives</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698452013&amp;store_name=currys&amp;LH_PrefLoc=2">Cloud storage</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698453013&amp;store_name=currys&amp;LH_PrefLoc=2">CDs, DVDs and Blu-Ray discs</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670775013&amp;store_name=currys&amp;LH_PrefLoc=2">Components &amp; upgrades</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698467013&amp;store_name=currys&amp;LH_PrefLoc=2">Processors</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698468013&amp;store_name=currys&amp;LH_PrefLoc=2">Motherboards</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698469013&amp;store_name=currys&amp;LH_PrefLoc=2">Computer memory</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698470013&amp;store_name=currys&amp;LH_PrefLoc=2">Graphics cards</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698471013&amp;store_name=currys&amp;LH_PrefLoc=2">Sound cards</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698472013&amp;store_name=currys&amp;LH_PrefLoc=2">Interface cards</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58040857013&amp;store_name=currys&amp;LH_PrefLoc=2">Internal data storage</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698473013&amp;store_name=currys&amp;LH_PrefLoc=2">Tower cases</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698474013&amp;store_name=currys&amp;LH_PrefLoc=2">PC fans &amp; coolers</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698475013&amp;store_name=currys&amp;LH_PrefLoc=2">Power supplies</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698476013&amp;store_name=currys&amp;LH_PrefLoc=2">Hard drive enclosures</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12698477013&amp;store_name=currys&amp;LH_PrefLoc=2">Raspberry Pi</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768213013&amp;store_name=currys&amp;LH_PrefLoc=2">Laptop bags &amp; cases</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768216013&amp;store_name=currys&amp;LH_PrefLoc=2">Laptop bags &amp; cases</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768217013&amp;store_name=currys&amp;LH_PrefLoc=2">Tablet bags &amp; cases</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768218013&amp;store_name=currys&amp;LH_PrefLoc=2">eReader bags &amp; cases</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12670770013&amp;store_name=currys&amp;LH_PrefLoc=2">Ink</a></li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12708388013&amp;store_name=currys&amp;LH_PrefLoc=2">Office supplies</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12708389013&amp;store_name=currys&amp;LH_PrefLoc=2">Labelling machines</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12708390013&amp;store_name=currys&amp;LH_PrefLoc=2">Laminators</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12708391013&amp;store_name=currys&amp;LH_PrefLoc=2">Office furniture</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12708392013&amp;store_name=currys&amp;LH_PrefLoc=2">PC care &amp; cleaning</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12708393013&amp;store_name=currys&amp;LH_PrefLoc=2">Shredders</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005896013&amp;store_name=currys&amp;LH_PrefLoc=2">Paper</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12720378013&amp;store_name=currys&amp;LH_PrefLoc=2">Software</a></li>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=2550387013&amp;store_name=currys&amp;LH_PrefLoc=2">Phones</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=2550456013&amp;store_name=currys&amp;LH_PrefLoc=2">Mobile &amp; smart phones</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768195013&amp;store_name=currys&amp;LH_PrefLoc=2">SIM free phones</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=2550457013&amp;store_name=currys&amp;LH_PrefLoc=2">Mobile phone accessories</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768207013&amp;store_name=currys&amp;LH_PrefLoc=2">Mobile phone cases</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768208013&amp;store_name=currys&amp;LH_PrefLoc=2">Mobile phone chargers</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=2550458013&amp;store_name=currys&amp;LH_PrefLoc=2">Home phones &amp; accessories</a></li>
+                                                        </ul>
+                                                </li>
+                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=9732999013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart tech</a>
+                                                        <ul class="lev2">
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12059270013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart watches &amp; fitness</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12059311013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart watches</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12059312013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart fitness</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005900013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart health</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005901013&amp;store_name=currys&amp;LH_PrefLoc=2">Apple watch</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005902013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart fitness accessories</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=9739647013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart home</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=9739649013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart heating</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=9739650013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart lighting</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768389013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart home monitoring &amp; power</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=9739652013&amp;store_name=currys&amp;LH_PrefLoc=2">CCTV</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005906013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart home starter kits</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li class="has-sub"><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=9733000013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart toys &amp; gadgets</a>
+                                                                        <ul class="lev3">
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768395013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart gadgets</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12768396013&amp;store_name=currys&amp;LH_PrefLoc=2">Drones</a></li>
+                                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=58005904013&amp;store_name=currys&amp;LH_PrefLoc=2">Smart toys</a></li>
+                                                                        </ul>
+                                                                </li>
+                                                                <li><a target="_blank" href="https://www.ebay.co.uk/sch/i.html?_ssn=currys&amp;store_cat=12725242013&amp;store_name=currys&amp;LH_PrefLoc=2">Sat Nav</a></li>
+                                                        </ul>
+                                                </li>
+                                        </ul>
+                                        <!-- <ul class="lev1 c-menu-list c-flex c-menu-slide menu-slide-2">
+                                                
+                                        </ul>
+                                        <ul class="lev1 c-menu-list c-flex c-menu-slide menu-slide-3">
+                                                
+                                        </ul> -->
+                                        
+                                        <ul class="lev1 c-menu-list c-menu-clearance c-flex">
+                                                <li>
+                                                        <a target="_blank" href="https://www.ebay.com/sch/i.html?_ssn=sugrudirect&store_name=sugrudirect&LH_PrefLoc=2&LH_Savings=1">Deals</a>
+                                                        <!--<ul class="lev2">
+                                                                <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_ssn=sugrudirect&store_name=sugrudirect&LH_PrefLoc=2&LH_Savings=1">Sale</a></li>
+                                                        </ul>-->
+                                                </li>
+                                        </ul>
+                                        <!-- <ul class="lev1 c-menu-arrows c-menu-arrows-right">
+                                                <li class="menu-li-2-right"><label for="cs0_menu_slide_2" class="menu-arrow right show_menu_2_right"></label></li>
+                                                <li class="menu-li-3-right"><label for="cs0_menu_slide_3" class="menu-arrow right show_menu_3_right"></label></li>
+                                        </ul> -->
+                                </div>
+                        </div>
+                        <div class="currys-wrapper c-hidden c-mobile-menu">
+                                <div class="c-mobile-cats">
+                                        <ul class="lev1">
+                                                <li>
+                                                        <input id="sub-mobile-1" type="radio" name="sub-mobile" class="sub-mobile">
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752462011">Sugru Moldable Glue</a><li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_cat=42752455011&store_name=sugrudirect&_oac=1">Craft &amp; Gift Wrapping</a>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752453011">Home Improvement</a>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752451011">Packaging Tape</a>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752450011">Eco Tape</a>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752449011">Double-Sided Tape</a>
+                                                        <ul>
+                                
+                                                        </ul>
+                                                        <input id="sub-mobile-10" type="radio" name="sub-mobile" class="sub-mobile">
+                                                        <label for="sub-mobile-10">Deals</label>
+                                                        <ul>
+                                                                <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_ssn=sugrudirect&store_name=sugrudirect&LH_PrefLoc=2&LH_Savings=1">Sale</a></li>
+                                                        </ul>
+                                                </li>
+                                        </ul>
+                                </div>
+                        </div>
+                </div>
+                <!-- HEADER END -->
+                <div class="currys-max-width c-listing-breadcrumb">
+                        <div class="currys-wrapper">
+                                <div class="c-listing-path">
+                                        <!-- <a target="_blank" href="https://www.ebay.com/str/sugrudirect">Home</a><img src="https://currys.pentagonhosting.co.uk/design/2021/img/breadcrumb-arrow.jpg" alt=""><a>12128062013</a> -->
+                                        <a target="_blank" href="https://www.ebay.com/str/sugrudirect">Home</a>
+                                        <img src="https://currys.pentagonhosting.co.uk/design/2021/img/breadcrumb-arrow.jpg" alt="">
+                                        <a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_nkw=sugru&_oac=1&store_cat=42752462011">Sugru Moldable Glue</a>
+                                </div>
+                        </div>
+                </div>
+                <div class="currys-max-width">
+                        <div class="currys-wrapper">
+                                <div class="c-listing-title">
+                                        <h1>Sugru Moldable Multi-Purpose Glue for Adhesive Repairing Fixing and Making</h1>
+                                </div>
+                                <div class="c-item-left">
+                                        <div class="ccs-gallery">
+                                                <div class="ccs-mainimg">
+                                                        <div class="ccs-imgwrap">
+                                                                <!-- *************************************** GALLERY *************************************** -->
+                                                                <input name="cs0_anchor1" id="cs0_slide_1" type="radio" class="cs0_anchor slide" checked="">
+                                                                <div class="num1 slide img_fix"><img src="https://lh3.googleusercontent.com/o1SFB-2QFiWePTlm7LDg_VjjaSup5uLhncDpRIyDAk1-N8tMYgF-f55yj7iJP-gCIr5sts2pDfMGE2Bh8eCdi_T7aXRyNtxi_eEgLr5aKmtkEnffJcPhTS0mrsGHvmYcJiuaeqAd"></div>
+                                                                <input name="cs0_anchor1" id="cs0_slide_2" type="radio" class="cs0_anchor slide">
+                                                                <div class="num2 slide img_fix"><img src="https://lh4.googleusercontent.com/KR_rBtVuM7A49deJGTgotaRkD4j0VfPoOWUFyUUjomHoFJgGRdGzEKYwVDACVH5rjJuTUjnJd6IdAARFK0Fyjjz1RuOpTqFLLD1VlKsT4qtSAKK6NsCMB5AvMpHBwvPek6_UTelK"></div>
+                                                                <input name="cs0_anchor1" id="cs0_slide_3" type="radio" class="cs0_anchor slide">
+                                                                <div class="num3 slide img_fix"><img src="https://lh5.googleusercontent.com/VINx6Rwfvz7WOhS0KHYMaMESemqOHN1W1fzcCW794PdkPhvXDozrHshtfoefDopeoRcvyMLwJZLxsHGwHc8iNA4t_Pmwl3VUvCcbSRZvNgDdTC-XIrxidsSh8E938Q17owjr5R4-"></div>
+                                                                <input name="cs0_anchor1" id="cs0_slide_4" type="radio" class="cs0_anchor slide">
+                                                                <div class="num4 slide img_fix"><img src="https://lh3.googleusercontent.com/n5WAGcTmbR0MsoktQkNHGwyEHbF_CJhAuf_tAUQAK01f6ikuwEQNScSe387wfHEjhCSBtnSj9DdtssKemk5wDwuw2NEIb7kg0lhc3CRdTA9qPEETHwmXyhhYcgS_EyAPKlPcJJ_u"></div>
+                                                                <input name="cs0_anchor1" id="cs0_slide_5" type="radio" class="cs0_anchor slide">
+                                                                <div class="num5 slide img_fix"><img src="https://lh5.googleusercontent.com/AsRvmsTwMg7tquoCPI7DqtpfVH2OVBbed_UWmY--igzCfL3l2UFvP76UrsyNQ6v8d8I0mSELgZfUK0De6xrUlxzqd8r4PH7NiQW7DSvs5gVhnI-vFHLmbN2XFCdXLMR-_Nk24Xyr"></div>
+                                                                <input name="cs0_anchor1" id="cs0_slide_6" type="radio" class="cs0_anchor slide">
+                                                                <div class="num5 slide img_fix"><img src=""></div>
+                                                                <div class="ccs-arrows">
+                                                                        <label for="cs0_slide_1" hasimg="https://brain-images-https://lh6.googleusercontent.com/jiSkeGEV4E1WFkoRJ0M0F1beFH-e_6zBk5-noUP9adsUsUfojNh0AzdbyxMLK3aRf2rLUklC3zWoqmatrJuysinxkFaSeM3WFhl1wLGOkb5SnU-TrSaIQILVq-a-WBBriGZJtiTK" class="arrow right show_img_01"></label>
+                                                                        <label for="cs0_slide_1" hasimg="https://brain-images-https://lh6.googleusercontent.com/jiSkeGEV4E1WFkoRJ0M0F1beFH-e_6zBk5-noUP9adsUsUfojNh0AzdbyxMLK3aRf2rLUklC3zWoqmatrJuysinxkFaSeM3WFhl1wLGOkb5SnU-TrSaIQILVq-a-WBBriGZJtiTK" class="arrow left show_img_01"></label>
+
+
+                                                                        <label for="cs0_slide_2" hasimg="https://lh4.googleusercontent.com/KR_rBtVuM7A49deJGTgotaRkD4j0VfPoOWUFyUUjomHoFJgGRdGzEKYwVDACVH5rjJuTUjnJd6IdAARFK0Fyjjz1RuOpTqFLLD1VlKsT4qtSAKK6NsCMB5AvMpHBwvPek6_UTelK" class="arrow left show_img_02"></label>
+                                                                        <label for="cs0_slide_2" hasimg="https://lh4.googleusercontent.com/KR_rBtVuM7A49deJGTgotaRkD4j0VfPoOWUFyUUjomHoFJgGRdGzEKYwVDACVH5rjJuTUjnJd6IdAARFK0Fyjjz1RuOpTqFLLD1VlKsT4qtSAKK6NsCMB5AvMpHBwvPek6_UTelK" class="arrow right show_img_02"></label>
+
+
+                                                                        <label for="cs0_slide_3" hasimg="https://lh5.googleusercontent.com/VINx6Rwfvz7WOhS0KHYMaMESemqOHN1W1fzcCW794PdkPhvXDozrHshtfoefDopeoRcvyMLwJZLxsHGwHc8iNA4t_Pmwl3VUvCcbSRZvNgDdTC-XIrxidsSh8E938Q17owjr5R4-" class="arrow left show_img_03"></label>
+                                                                        <label for="cs0_slide_3" hasimg="https://lh5.googleusercontent.com/VINx6Rwfvz7WOhS0KHYMaMESemqOHN1W1fzcCW794PdkPhvXDozrHshtfoefDopeoRcvyMLwJZLxsHGwHc8iNA4t_Pmwl3VUvCcbSRZvNgDdTC-XIrxidsSh8E938Q17owjr5R4-" class="arrow right show_img_03"></label>
+
+
+                                                                        <label for="cs0_slide_4" hasimg="https://lh3.googleusercontent.com/n5WAGcTmbR0MsoktQkNHGwyEHbF_CJhAuf_tAUQAK01f6ikuwEQNScSe387wfHEjhCSBtnSj9DdtssKemk5wDwuw2NEIb7kg0lhc3CRdTA9qPEETHwmXyhhYcgS_EyAPKlPcJJ_u" class="arrow left show_img_04"></label>
+                                                                        <label for="cs0_slide_4" hasimg="https://lh3.googleusercontent.com/n5WAGcTmbR0MsoktQkNHGwyEHbF_CJhAuf_tAUQAK01f6ikuwEQNScSe387wfHEjhCSBtnSj9DdtssKemk5wDwuw2NEIb7kg0lhc3CRdTA9qPEETHwmXyhhYcgS_EyAPKlPcJJ_u" class="arrow right show_img_04"></label>
+
+
+                                                                        <label for="cs0_slide_5" hasimg="https://lh5.googleusercontent.com/AsRvmsTwMg7tquoCPI7DqtpfVH2OVBbed_UWmY--igzCfL3l2UFvP76UrsyNQ6v8d8I0mSELgZfUK0De6xrUlxzqd8r4PH7NiQW7DSvs5gVhnI-vFHLmbN2XFCdXLMR-_Nk24Xyr" class="arrow left show_img_05"></label>
+                                                                        <label for="cs0_slide_5" hasimg="https://lh5.googleusercontent.com/AsRvmsTwMg7tquoCPI7DqtpfVH2OVBbed_UWmY--igzCfL3l2UFvP76UrsyNQ6v8d8I0mSELgZfUK0De6xrUlxzqd8r4PH7NiQW7DSvs5gVhnI-vFHLmbN2XFCdXLMR-_Nk24Xyr" class="arrow right show_img_05"></label>
+
+
+                                                                        <label for="cs0_slide_6" hasimg="" class="arrow left show_img_06"></label>
+                                                                        <label for="cs0_slide_6" hasimg="" class="arrow right show_img_06"></label>
+                                                                </div>
+                                                                <!-- **************************************************************************************** -->
+                                                        </div>
+                                                </div>
+                                                <div class="ccs-subimg">
+                                                        <div class="ccs-subimg-wrap">
+                                                                <label hasimg="https://lh3.googleusercontent.com/o1SFB-2QFiWePTlm7LDg_VjjaSup5uLhncDpRIyDAk1-N8tMYgF-f55yj7iJP-gCIr5sts2pDfMGE2Bh8eCdi_T7aXRyNtxi_eEgLr5aKmtkEnffJcPhTS0mrsGHvmYcJiuaeqAd" for="cs0_slide_1" class="img_fix thumb_01 first-row"><img src="https://lh3.googleusercontent.com/o1SFB-2QFiWePTlm7LDg_VjjaSup5uLhncDpRIyDAk1-N8tMYgF-f55yj7iJP-gCIr5sts2pDfMGE2Bh8eCdi_T7aXRyNtxi_eEgLr5aKmtkEnffJcPhTS0mrsGHvmYcJiuaeqAd" alt=""></label>
+                                                                <label hasimg="https://lh4.googleusercontent.com/KR_rBtVuM7A49deJGTgotaRkD4j0VfPoOWUFyUUjomHoFJgGRdGzEKYwVDACVH5rjJuTUjnJd6IdAARFK0Fyjjz1RuOpTqFLLD1VlKsT4qtSAKK6NsCMB5AvMpHBwvPek6_UTelK" for="cs0_slide_2" class="img_fix thumb_02 first-row"><img src="https://lh4.googleusercontent.com/KR_rBtVuM7A49deJGTgotaRkD4j0VfPoOWUFyUUjomHoFJgGRdGzEKYwVDACVH5rjJuTUjnJd6IdAARFK0Fyjjz1RuOpTqFLLD1VlKsT4qtSAKK6NsCMB5AvMpHBwvPek6_UTelK" alt=""></label>
+                                                                <label hasimg="https://lh5.googleusercontent.com/VINx6Rwfvz7WOhS0KHYMaMESemqOHN1W1fzcCW794PdkPhvXDozrHshtfoefDopeoRcvyMLwJZLxsHGwHc8iNA4t_Pmwl3VUvCcbSRZvNgDdTC-XIrxidsSh8E938Q17owjr5R4-" for="cs0_slide_3" class="img_fix thumb_03 first-row"><img src="https://lh5.googleusercontent.com/VINx6Rwfvz7WOhS0KHYMaMESemqOHN1W1fzcCW794PdkPhvXDozrHshtfoefDopeoRcvyMLwJZLxsHGwHc8iNA4t_Pmwl3VUvCcbSRZvNgDdTC-XIrxidsSh8E938Q17owjr5R4-" alt=""></label>
+                                                                <label hasimg="https://lh3.googleusercontent.com/n5WAGcTmbR0MsoktQkNHGwyEHbF_CJhAuf_tAUQAK01f6ikuwEQNScSe387wfHEjhCSBtnSj9DdtssKemk5wDwuw2NEIb7kg0lhc3CRdTA9qPEETHwmXyhhYcgS_EyAPKlPcJJ_u" for="cs0_slide_4" class="img_fix thumb_04 first-row"><img src="https://lh3.googleusercontent.com/n5WAGcTmbR0MsoktQkNHGwyEHbF_CJhAuf_tAUQAK01f6ikuwEQNScSe387wfHEjhCSBtnSj9DdtssKemk5wDwuw2NEIb7kg0lhc3CRdTA9qPEETHwmXyhhYcgS_EyAPKlPcJJ_u" alt=""></label>
+                                                                <label hasimg="https://lh5.googleusercontent.com/AsRvmsTwMg7tquoCPI7DqtpfVH2OVBbed_UWmY--igzCfL3l2UFvP76UrsyNQ6v8d8I0mSELgZfUK0De6xrUlxzqd8r4PH7NiQW7DSvs5gVhnI-vFHLmbN2XFCdXLMR-_Nk24Xyr" for="cs0_slide_5" class="img_fix thumb_05 first-row"><img src="https://lh5.googleusercontent.com/AsRvmsTwMg7tquoCPI7DqtpfVH2OVBbed_UWmY--igzCfL3l2UFvP76UrsyNQ6v8d8I0mSELgZfUK0De6xrUlxzqd8r4PH7NiQW7DSvs5gVhnI-vFHLmbN2XFCdXLMR-_Nk24Xyr" alt=""></label>
+                                                                <label hasimg="" for="cs0_slide_6" class="img_fix thumb_06 first-row"><img src="" alt=""></label>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                </div>
+                                <div class="c-item-right">
+                                        <div class="c-item-details">
+                                                <div class="c-item-condition">
+                                                        <h1>About this item</h1>
+                                                        <ul>
+                                                                <li>Brand new &amp; direct from the official Sugru manufacturer.</li>
+                                                                <li>Free &amp; fast delivery.</li>
+                                                                <li>Great for repairing, bonding, sealing, reinforcing, mounting without drilling, handicrafts and many other DIY ideas.</li>
+                                                                <li>Extra strong: bonds to glass, ceramics, wood, metal, plaster, most plastics and fabrics (and more).</li>
+                                                                <li>Versatile: waterproof, heat and cold resistant, durable, removable.
+                                                        </li><br>
+                                                        <h1>How does Sugru work?</h1><li>Stick it, shape it, it turns into rubber. It’s that easy! Its unique formulation ensures that it will adhere strongly and securely across many surfaces and environments, from the freezer to a steamy shower and from the home to the great outdoors.</li></ul>                                
+                                                </div>
+                                                <!-- <div class="c-item-price">
+                                                        <span> £39.99</span>
+                                                </div> -->
+                                                <div class="c-item-buttons">
+                                                        <a target="_blank" class="c-listing-button" href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&amp;requested=sugru-direct">Ask a question</a>
+<a target="_blank" class="c-listing-button" href="https://my.ebay.co.uk/ws/eBayISAPI.dll?AcceptSavedSeller&amp;sellerid=sugrudirect">Join Mailing List</a>
+
+
+                                                        <a target="_blank" class="c-listing-button" href="https://www.ebay.com/sch/i.html?_ssn=sugru-direct&amp;store_name=sugru-direct&amp;LH_PrefLoc=2">Similar items</a>
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+                        <div class="currys-wrapper">
+                                <div class="currys-tabs">
+                                        <div class="currys-tabs-wrap currys-mobile-tabs">
+                                                <input id="m-tab1" type="checkbox" name="m-tabs" checked="">
+                                                <label for="m-tab1"><span>Description</span></label>
+                                                <section id="m-content1">
+                                                        <div class="currys-item-desc">
+                                                                <h2>Key Features</h2>
+                                                                <p><strong><span><br> </span></strong><span>- <strong>Mess-free repairs</strong> If you love creative fixing and making little DIY improvements around the home, you’re going to love this award-winning mouldable glue. It’s super easy to control, and unlike liquid glues, it won’t ooze and drip all over the place. Simply mould it by hand, stick it where you need it, and it sets strong by turning into a durable, flexible silicone rubber.<br><br> - <strong>Fix, protect & organise</strong> Next time your charger cables start to fray, use Sugru to make them last longer or prevent new cords from splitting in the first place. Sugru sticks permanently to lots of different materials, including things that need to flex, and it’s electrically insulating*. You can even use it to colour-code and organise your spaghetti cable junctions.<br><br> - <strong>Get practical & creative</strong>, Turn your everyday fixes into decorative features. With Sugru, simple problems become creative adventures. Choose from 10 seriously playful Sugru colours to make like-new invisible repairs or create eye-catching embellishments. Fix and decorate all kinds of things like ceramics, pottery and earthenware. Sugru also happens to be dishwasher-proof.<br><br> - <strong>Seal leaks</strong> Fixing common leaks around the home, indoors and out, is so easy with Sugru. It bonds to lots of different surfaces and is waterproof and weatherproof. Now you can tackle cracked pipes, split garden hoses, broken watering cans, even leaky footwear. There are no limits to what you can do with this versatile material.<br> ___________________________________________________________________________<br> </span></p>
+                                                                <div class="currys-guarantee">
+                                                                        <h2><span style="color: rgb(0, 68, 116); font-size: 15px; font-weight: 400; background-color: rgb(248, 249, 251);"><strong>Subscribe to our newsletter for exclusive offers&nbsp;</strong></span><strong style="font-size: 17pt;"><a href="https://my.ebay.co.uk/ws/eBayISAPI.dll?AcceptSavedSeller&amp;sellerid=sugrudirect" target="_blank" style="box-sizing: inherit; background-color: rgb(0, 68, 116); color: rgb(255, 255, 255); touch-action: manipulation; outline-width: 0px; padding: 7px 20px; display: inline-block; font-size: 16px;&nbsp;font-family: &quot; font-weight: 400;">Subscribe</a></strong></h2>
+                                                                        </li>
+                                                                        </ul>
+                                                                </div>
+                                                        </div>
+                                                        <div class="currys-item-specs">
+                                                                <h2>Good to know</h2>
+                                                                <p hideifempty="Brand: ESSENTIALS">Sugru’s unique, patented formula has earned it dozens of awards and global scientific recognition. It’s used by loads of clever people from engineers in international space programmes to Himalayan explorers to our uncle Barry.</p>                                                                
+                                                                
+                                                                
+                                                                
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                                <p hideifempty=""></p>
+                                                        </div>
+                                                </section>
+                                                <input id="m-tab2" type="checkbox" name="m-tabs">
+                                                <label for="m-tab2"><span>Delivery</span></label>
+                                                <section id="m-content2" class="scroll-section">
+                                                        
+                                                        <h3>Delivery - Free</h3>
+                                                        <ul>
+                                                            <li>FREE delivery available with every order!</li>
+                                                </ul>
+                                                </section>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+                <div class="currys-max-width c-max-footer">
+                        <div class="currys-wrapper">
+                                <div class="currys-footer">
+                                        <!-- <div class="c-footer-column c-quarter"><img src="https://currys.pentagonhosting.co.uk/design/images/footer-logo.png" alt=""></div> -->
+                                        <div class="c-footer-column c-footer-categories">
+                                                <h2>Shop Categories</h2>
+                                                <ul>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752462011">Sugru Moldable Glue</a></li>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_cat=42752455011&store_name=sugrudirect&_oac=1" class="craft-gift-wrapping">Craft &amp; Gift Wrapping</a></li>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752453011" class="home-improvement">Home Improvement</a></li>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752451011" class="packaging-tape">Packaging Tape</a></li>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752450011" class="eco-tape">Eco Tape</a></li>
+                                                        <li><a target="_blank" href="https://www.ebay.com/sch/i.html?_dmd=2&_dkr=1&iconV2Request=true&_ssn=sugru-direct&store_name=sugrudirect&_oac=1&store_cat=42752449011" class="double-sided-tape">Double-Sided Tape</a></li>
+                                                        </ul>
+                                        </div>
+                                        <div class="c-footer-column">
+                                                <h2>Customer Services</h2>
+                                                <ul>
+                                                        <li><a target="_blank" href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&amp;requested=sugru-direct">Contact Us</a></li>
+                                                        <li><a target="_blank" href="https://my.ebay.co.uk/ws/eBayISAPI.dll?AcceptSavedSeller&amp;sellerid=sugrudirect">Join Mailing List</a></li>
+                                                </ul>
+                                        </div>
+                                </div>
+                        </div>
+                </div>
+
+
+        </div>
+</div></div>
+                                                </td>
+        </tr>
+</tbody></table><span id="closeHtml"></span>
+<script type="text/javascript">
+                var _rfr = '';
+        </script>
+        <script src="https://ir.ebaystatic.com/rs/v/1yzqmzxk3a3utciscis2t10n1uu.js" type="text/javascript"></script><img src="https://rover.ebay.com/roversync/?site=0&amp;stg=1&amp;mpt=1648337045533"></body></html>
